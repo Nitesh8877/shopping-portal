@@ -1,6 +1,6 @@
-Install Dependencies:
+1. Install Dependencies:
 npm install
-Start the Application:
+2. Start the Application:
 npm run dev
 ---------------------------------------
 
